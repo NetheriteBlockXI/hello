@@ -1,1 +1,1 @@
-only used in Xenon OS for checking for an internet connection.
+only used in Xenon OS for checking for an internet connection and version.
