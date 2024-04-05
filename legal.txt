@@ -1,9 +1,15 @@
-While you may make fan OSes and modify Xenon OS, there are some rules—simple rules at that.
+While you may make fan OSes and modify Xenon OS, there are some rules—simple rules at that. Breaking these will get your copy, modification, or fan OS taken down.
 
 1: You'll need to give credit and state whether or not it is a modification or a fan OS.
   1.1: If it is a fan OS or a modification, there needs to be a reasonable change.
 2: Provide credit to the makers of textures, music, etc in your modification or fan OS.
 3: Please do not over-advertise your fan OS.
-4. No changing the legal.txt, aka this file. No changing the one in the OS either. You may suggest things to add to legal.txt though.
+4. No changing the legal.txt, aka this file, either through inspect element or anything else. No changing the one in the OS either. You may suggest things to add to legal.txt though.
 
-Breaking these will get your copy, modification, or fan OS taken down.
+=================================================================================================================================================================
+
+More info on Xenon OS Mods or Fan OSes:
+
+1. You may become an "Official Fan OS Maker", and your ideas are unique, and may inspire me to add them to Xenon OS, and you have a Fan OS!
+2. You may become an "Official Design Maker", your ideas are incredible, and are likely to get added, but you may not have a Fan OS.
+3. You may also add new content in Xenon OS to your Mod or Fan OS.
