@@ -1,15 +1,43 @@
-While you may make fan OSes and modify Xenon OS, there are some rules—simple rules at that. Breaking these will get your copy, modification, or fan OS taken down.
+---
 
-1: You'll need to give credit and state whether or not it is a modification or a fan OS.
-  1.1: If it is a fan OS or a modification, there needs to be a reasonable change.
-2: Provide credit to the makers of textures, music, etc in your modification or fan OS.
-3: Please do not over-advertise your fan OS.
-4. No changing the legal.txt, aka this file, either through inspect element or anything else. No changing the one in the OS either. You may suggest things to add to legal.txt though.
+**Copyright Notice**
 
-=================================================================================================================================================================
+© 2022-2024 XP Studios. All rights reserved. Xenon OS and its associated content, including but not limited to textures, music, and code, are the intellectual property of XP Studios. Unauthorized use, reproduction, or distribution of this software or any of its components without explicit permission is strictly prohibited.
 
-More info on Xenon OS Mods or Fan OSes:
+---
 
-1. You may become an "Official Fan OS Maker", and your ideas are unique, and may inspire me to add them to Xenon OS, and you have a Fan OS!
-2. You may become an "Official Design Maker", your ideas are incredible, and are likely to get added, but you may not have a Fan OS.
-3. You may also add new content in Xenon OS to your Mod or Fan OS.
+**Xenon OS Fan-Made OSes and Modifications: Guidelines and Rules**
+
+You are welcome to create fan-made operating systems (Fan OSes) and modifications of Xenon OS, provided that you adhere to the following rules. Failure to comply will result in the removal of your copy, modification, or Fan OS.
+
+1. **Credit and Modification Requirements**
+   - You must provide appropriate credit and clearly state whether your creation is a modification or a Fan OS.
+   - If your work is a Fan OS or modification, it must include a significant and reasonable change to the original content.
+
+2. **Attribution**
+   - You must give proper credit to the creators of any textures, music, or other assets used in your modification or Fan OS.
+
+3. **Advertising Restrictions**
+   - Do not excessively advertise your Fan OS.
+
+4. **Legal Text Integrity**
+   - You are not allowed to alter the `legal.txt` file, either through direct editing or any other means, including inspect element. This applies to the `legal.txt` file within Xenon OS as well. Suggestions for additions to the `legal.txt` file are welcome but must be submitted for approval.
+
+---
+
+**Additional Information on Xenon OS Mods and Fan OSes**
+
+1. **Official Fan OS Maker**
+   - By creating a unique and innovative Fan OS, you may be recognized as an "Official Fan OS Maker." Your ideas could inspire new features in Xenon OS, and your Fan OS will be officially acknowledged.
+
+2. **Official Design Maker**
+   - If your design ideas are exceptional, you may be designated as an "Official Design Maker." Your contributions might be incorporated into Xenon OS, even if you choose not to create a Fan OS.
+
+3. **Content Addition**
+   - You are permitted to add new content from Xenon OS to your Mod or Fan OS, in accordance with the rules outlined above.
+
+---
+
+**Contact Information**
+
+For any questions or to submit suggestions, please contact _3xp on Discord.
