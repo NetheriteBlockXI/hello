@@ -1,3 +1,7 @@
+---
+
+**Copyright Notice**
+
 © 2022-2024 XP Studios. All rights reserved. Xenon OS and its associated content, including but not limited to textures, music, and code, are the intellectual property of XP Studios. Unauthorized use, reproduction, or distribution of this software or any of its components without explicit permission is strictly prohibited.
 
 ---
@@ -38,7 +42,7 @@ You are welcome to create fan-made operating systems (Fan OSes) and modification
 
 For any questions or to submit suggestions, please contact _3xp on Discord.
 
-**Company Information**
+**Studio Information**
 
 XP Studios  
 Founded: November 20, 2022  
